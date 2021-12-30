@@ -1,0 +1,15 @@
+List of important software concepts
+
+* RESTful web service
+* Database access - CRUD operations
+* Transaction management
+* SQL and NoSQL
+* Messaging
+* Authorization and Authentication
+* OAuth 2.0
+* Dockerize a service
+* Microservices
+* Caching
+* Log analysis
+* Memory Analysis
+* Docker
